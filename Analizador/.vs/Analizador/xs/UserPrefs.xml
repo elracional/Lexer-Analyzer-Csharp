@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BEB17FFD-0848-4101-8664-86CBE5ED8A31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Analizador/Checker.cs">
+    <Files>
+      <File FileName="Analizador/Program.cs" Line="4" Column="1" />
+      <File FileName="Analizador/Tokens.cs" Line="12" Column="23" />
+      <File FileName="Analizador/Lexer.cs" Line="227" Column="14" />
+      <File FileName="Analizador/Checker.cs" Line="155" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Analizador PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/home/saulhernandezlara/Desktop/C#/Analizador/Analizador/bin/Debug/Analizador.exe
+/home/saulhernandezlara/Desktop/C#/Analizador/Analizador/bin/Debug/Analizador.pdb
+/home/saulhernandezlara/Desktop/C#/Analizador/Analizador/obj/x86/Debug/Analizador.csproj.CoreCompileInputs.cache
+/home/saulhernandezlara/Desktop/C#/Analizador/Analizador/obj/x86/Debug/Analizador.exe
+/home/saulhernandezlara/Desktop/C#/Analizador/Analizador/obj/x86/Debug/Analizador.pdb
+/home/dieog/Desktop/Analizador/Analizador/bin/Debug/Analizador.exe
+/home/dieog/Desktop/Analizador/Analizador/bin/Debug/Analizador.pdb
+/home/dieog/Desktop/Analizador/Analizador/obj/x86/Debug/Analizador.csproj.CoreCompileInputs.cache
+/home/dieog/Desktop/Analizador/Analizador/obj/x86/Debug/Analizador.exe
+/home/dieog/Desktop/Analizador/Analizador/obj/x86/Debug/Analizador.pdb
